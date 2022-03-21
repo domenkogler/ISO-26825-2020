@@ -75,7 +75,7 @@ td h4{
 
 .drug-group {
     width: 6cm;
-    margin: 0.15cm;
+    margin: 1mm;
     border-style: solid;
     border-radius: 5mm;    
 }
@@ -87,14 +87,15 @@ td h4{
 
 .drug-group h4 {
     text-align: center;
-    margin-block-start: 0.3cm;
-    margin-block-end: 0.3cm;
+    margin-block-start: 3mm;
+    margin-block-end: 2mm;
 }
 
 .drug-group ul {
     list-style-type: none;
     font-weight: bold;
     padding-inline-start: 3mm;
+    margin-bottom: 3mm;
 }
 
 /*
